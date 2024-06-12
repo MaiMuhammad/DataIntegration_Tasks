@@ -14,3 +14,6 @@ This Assignment consists of four tasks using MS SQL Server and SSIS.
 ## Task 4: Process Attendance Data
 - Process attendance data from `Attendance_Device` and load it into `Employee_Attendance_Details`.
 - Determine the state based on arrival time and work duration.
+## Contributors
+- [Mai Mohamed](https://github.com/MaiMuhammad)
+- [Doha Tarek](https://github.com/Doha-Tarek155)
