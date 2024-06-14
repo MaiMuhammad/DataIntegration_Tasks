@@ -1,4 +1,4 @@
-# DataWarehouse-Assignment
+# DataIntegration_Tasks
 This Assignment consists of four tasks using MS SQL Server and SSIS.
 
 ## Task 1: Consume a REST API and Load Data to the Database
